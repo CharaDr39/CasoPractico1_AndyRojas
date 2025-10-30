@@ -1,0 +1,33 @@
+/* LEER ESTO
+
+
+
+
+
+//para poder iniciar la aplicacion abre una terminar y escribe php -S localhost:8000
+//luego ahi te dira directamente donde entrar
+//realmente no hay usuario o contraseña, cualquiera vale
+//y poneme un 100, va? :D
+
+
+
+
+
+
+LEE LO DE ARRIBA */
+
+
+.sticky-head th {
+  position: sticky;
+  top: 0;
+  z-index: 2;
+}
+
+.table tbody tr.table-warning > td {
+  background-color: #fff3cd !important;
+}
+.table tbody tr.table-danger > td {
+  background-color: #f8d7da !important;
+}
+
+.min-vh-100 { min-height: 100vh; }
